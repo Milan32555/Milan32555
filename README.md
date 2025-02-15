@@ -51,7 +51,7 @@
   <img width="0" />
   <img src="https://img.shields.io/badge/adobe-%23FF0000.svg?logo=adobe&logoColor=red&style=for-the-badge" height="30" alt="adobe logo"  />
   <img width="0" />
-  <img src="(https://img.shields.io/badge/cisco-%23049fd9.svg?logo=cisco&logoColor=blue&style=for-the-badge&logo=firefox&&logoColor=#FF7139"" height="30" alt="cisco logo"  />
+  <img src="https://img.shields.io/badge/cisco-%23049fd9.svg?logo=cisco&logoColor=blue&style=for-the-badge&logo=firefox&&logoColor=#FF7139" height="30" alt="cisco logo"  />
   <img width="0" />
   <img src="https://img.shields.io/badge/github-%23121011.svg?logo=Hitbuv&logoColor=blue&style=for-the-badge" height="30" alt="hithub logo"  />
   <img width="0" />
