@@ -45,18 +45,14 @@
   <img width="0" />
   <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?logo=eclipseide&logoColor=white&style=for-the-badge" height="30" alt="eclipseide logo"  />
   <img width="0" />
-
   <img src="https://img.shields.io/badge/Notion-%23000000.svg?logo=notion&logoColor=white&style=for-the-badge" height="30" alt="notion logo"  />
   <img width="0" />
-  
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=AWS&logoColor=yellow&style=for-the-badge" height="30" alt="AWS logo"  />
   <img width="0" />
   <img src="https://img.shields.io/badge/adobe-%23FF0000.svg?logo=adobe&logoColor=red&style=for-the-badge" height="30" alt="adobe logo"  />
   <img width="0" />
- 
-  <img src="(https://img.shields.io/badge/cisco-%23049fd9.svg?logo=cisco&logoColor=grey&style=for-the-badge" height="30" alt="cisco logo"  />
+  <img src="(https://img.shields.io/badge/cisco-%23049fd9.svg?logo=cisco&logoColor=blue&style=for-the-badge&logo=firefox&&logoColor=#FF7139"" height="30" alt="cisco logo"  />
   <img width="0" />
-  
   <img src="https://img.shields.io/badge/github-%23121011.svg?logo=Hitbuv&logoColor=blue&style=for-the-badge" height="30" alt="hithub logo"  />
   <img width="0" />
   <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?logo=eclipseide&logoColor=white&style=for-the-badge&logo=firefox&&logoColor=#FF7139" height="30" alt="portfolio       logo"  />
