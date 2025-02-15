@@ -42,6 +42,9 @@
   <img width="0" />
   
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?logo=java&logoColor=red&style=for-the-badge&logo=openjdk&logoColor=red" height="30" alt="kotlin logo"  />
+  <img width="0" />
   
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge" height="30" alt="kotlin logo"  />
   <img width="0" />
