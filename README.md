@@ -6,14 +6,6 @@
 
 
 # 💻 Tech Stack:
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
-![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
-![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) 
-![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
-
 ###
 
 <div align="center">
@@ -33,7 +25,6 @@
   <img width="0" />
   <img src="https://img.shields.io/badge/Google Cloud-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge" height="30" alt="googlecloud logo"  />
   <img width="0" />
-  
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?logo=java&logoColor=red&style=for-the-badge" height="30" alt="java logo"  />
   <img width="0" />
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge" height="30" alt="kotlin logo"  />
@@ -53,6 +44,24 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="30" alt="docker logo"  />
   <img width="0" />
   <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?logo=eclipseide&logoColor=white&style=for-the-badge" height="30" alt="eclipseide logo"  />
+  <img width="0" />
+
+  <img src="https://img.shields.io/badge/Notion-%23000000.svg?logo=notion&logoColor=white&style=for-the-badge" height="30" alt="notion logo"  />
+  <img width="0" />
+  
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=AWS&logoColor=yellow&style=for-the-badge" height="30" alt="AWS logo"  />
+  <img width="0" />
+  <img src="https://img.shields.io/badge/adobe-%23FF0000.svg?logo=adobe&logoColor=red&style=for-the-badge" height="30" alt="adobe logo"  />
+  <img width="0" />
+ 
+  <img src="(https://img.shields.io/badge/cisco-%23049fd9.svg?logo=cisco&logoColor=grey&style=for-the-badge" height="30" alt="cisco logo"  />
+  <img width="0" />
+  
+  <img src="https://img.shields.io/badge/github-%23121011.svg?logo=Hitbuv&logoColor=blue&style=for-the-badge" height="30" alt="hithub logo"  />
+  <img width="0" />
+  <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?logo=eclipseide&logoColor=white&style=for-the-badge&logo=firefox&&logoColor=#FF7139" height="30" alt="portfolio       logo"  />
+  <img width="0" />
+  
 </div>
 
 ##
