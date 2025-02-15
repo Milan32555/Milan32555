@@ -2,7 +2,8 @@
   </h2>
 
 # 💫 About Me:
-🔭 Currently certifying on soc analyst<br>🌱 Studying software engineering<br>
+🔭 Currently certifying on soc analyst <br> 
+&#128210; Studying software engineering<br>
 
 
 # 💻 Tech Stack:
