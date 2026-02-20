@@ -1,10 +1,10 @@
-<h2 align="left">Hey 👋! My name is Misael and I'm from Spain &#127466;&#127480; </h2>
+<h2 align="left">Hey! My name is Misael and I'm from Spain &#127466;&#127480; </h2>
 
 # About Me:
 Currently certifying on soc analyst <br> 
 Studying software engineering<br>
 
-# 💻 Tech Stack:
+# Tech Stack:
 
 ###
 <div align="center">
