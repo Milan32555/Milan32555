@@ -17,7 +17,7 @@
 <a href="https://github.com/Milan32555">
   <img src="https://img.shields.io/badge/GitHub-Milan32555-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<img src="https://img.shields.io/badge/Location-Colombia%20🇨🇴%20(from%20Spain%20🇪🇸)-FF6B6B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/📍%20Location-Colombia%20%7C%20From%20Spain-FF6B6B?style=for-the-badge&logoColor=white" />
 <img src="https://komarev.com/ghpvc/?username=Milan32555&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" />
 
 </div>
@@ -101,13 +101,13 @@ misael = {
 
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Milan32555&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Milan32555&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Milan32555&theme=tokyonight&hide_border=true&show_icons=true&count_private=false" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Milan32555&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
 
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Milan32555&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Milan32555&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
@@ -115,7 +115,7 @@ misael = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Milan32555&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Milan32555&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6" />
 </div>
 
 ---
@@ -123,7 +123,15 @@ misael = {
 ## 🔝 Top Contributed Repos
 
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Milan32555&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=Milan32555&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Milan32555&theme=tokyo-night&hide_border=true&area=true" />
 </div>
 
 ---
