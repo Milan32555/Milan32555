@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated header banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Misael%20Gallo&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Mobile%20%26%20Web%20Developer&descAlignY=58&descSize=18&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Misael%20Gallo&fontSize=60&fontColor=24243e&animation=fadeIn&descSize=18&descAlignY=58&desc=Software%20Engineering%20Student%20%7C%20%Mobile%20%7C%20%Web%20Developer&fontAlignY=38"/>
 
 <!-- Typing animation -->
 <a href="https://github.com/Milan32555">
