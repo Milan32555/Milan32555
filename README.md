@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated header banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Misael%20Gallo&fontSize=60&fontColor=24243e&animation=fadeIn&descSize=18&descAlignY=58&desc=Software%20Engineering%20Student%20%7C%20%Mobile%20%7C%20%Web%20Developer&fontAlignY=38"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Misael%20Gallo&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Mobile%20%26%20Web%20Developer&descAlignY=58&descSize=18&animation=fadeIn"/>
 
 <!-- Typing animation -->
 <a href="https://github.com/Milan32555">
@@ -17,7 +17,7 @@
 <a href="https://github.com/Milan32555">
   <img src="https://img.shields.io/badge/GitHub-Milan32555-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<img src="https://img.shields.io/badge/📍%20Location-Colombia%20%7C%20From%20Spain-FF6B6B?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Location-Colombia%20%7C%20From%20Spain-FF6B6B?style=for-the-badge&logoColor=white" />
 <img src="https://komarev.com/ghpvc/?username=Milan32555&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" />
 
 </div>
@@ -29,13 +29,13 @@
 ```python
 misael = {
     "name":        "Misael Gallo",
-    "origin":      "Spain 🇪🇸 → Colombia 🇨🇴",
+    "origin":      "Spain -> Colombia",
     "education":   "Software Engineering (4th year)",
     "languages":   ["Spanish (native)", "English (professional)"],
     "interests":   ["Mobile Development", "Web Development", "Cybersecurity", "AI"],
     "currently":   ["Building Android apps", "Studying SOC Analyst certification"],
     "tools":       ["Android Studio", "Java", "Python", "Docker", "AWS"],
-    "fun_fact":    "I debug in two languages — code and human 😄"
+    "fun_fact":    "I debug in two languages - code and human"
 }
 ```
 
@@ -45,7 +45,7 @@ misael = {
 
 <div align="center">
 
-|  📱 Mobile Dev  |  🌐 Web Dev  |  🔐 Cybersecurity  |  🤖 AI &amp; Automation  |
+| 📱 Mobile Dev | 🌐 Web Dev | 🔐 Cybersecurity | 🤖 AI &amp; Automation |
 |:-:|:-:|:-:|:-:|
 | Android · Kotlin · Java | HTML · CSS · JS | SOC Analyst · Linux · Cisco | Python · AWS · GCP |
 
@@ -100,30 +100,12 @@ misael = {
 ## 📊 GitHub Stats
 
 <div align="center">
-
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Milan32555&theme=tokyonight&hide_border=true&show_icons=true&count_private=false" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Milan32555&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
-
 </div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Milan32555&theme=tokyonight&hide_border=true" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Milan32555&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6" />
-</div>
-
----
-
-## 🔝 Top Contributed Repos
-
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Milan32555&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
 </div>
 
 ---
@@ -141,7 +123,7 @@ misael = {
 <div align="center">
 
 <a href="https://www.linkedin.com/in/misael-gallo/">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's%20connect!-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect!-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
 <a href="mailto:your@email.com">
