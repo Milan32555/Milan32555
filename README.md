@@ -45,7 +45,7 @@ misael = {
 
 <div align="center">
 
-|  📱 Mobile Dev  |  🌐 Web Dev  |  🔐 Cybersecurity  |  🤖 AI & Automation  |
+|  📱 Mobile Dev  |  🌐 Web Dev  |  🔐 Cybersecurity  |  🤖 AI &amp; Automation  |
 |:-:|:-:|:-:|:-:|
 | Android · Kotlin · Java | HTML · CSS · JS | SOC Analyst · Linux · Cisco | Python · AWS · GCP |
 
@@ -65,14 +65,14 @@ misael = {
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </div>
 
-### 📱 Mobile & IDEs
+### 📱 Mobile &amp; IDEs
 <div align="left">
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=black" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white" />
 </div>
 
-### ☁️ Cloud & DevOps
+### ☁️ Cloud &amp; DevOps
 <div align="left">
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
@@ -81,7 +81,7 @@ misael = {
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </div>
 
-### 🔐 Cybersecurity & Systems
+### 🔐 Cybersecurity &amp; Systems
 <div align="left">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white" />
@@ -89,7 +89,7 @@ misael = {
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
 
-### 🧰 Tools & Productivity
+### 🧰 Tools &amp; Productivity
 <div align="left">
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
   <img src="https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white" />
