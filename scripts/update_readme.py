@@ -39,14 +39,14 @@ def clean(message: str) -> str:
 def entries() -> list[str]:
     repos = get(f"https://api.github.com/users/{USER}/repos?sort=pushed&per_page=30")
     repos = [r for r in repos if not r["fork"] and not r["archived"] and r["name"] not in SKIP][:LIMIT]
-    lines = []
+    found = []
     for repo in repos:
         commits = get(f"https://api.github.com/repos/{USER}/{repo['name']}/commits?per_page=30")
         commit = next((c for c in commits if not NOISE.match(c["commit"]["message"])), commits[0])
         date = commit["commit"]["committer"]["date"][:10]
         name = DISPLAY.get(repo["name"], repo["name"])
-        lines.append(f"- **[{name}]({repo['html_url']})** — {clean(commit['commit']['message'])} <sub>{date}</sub>")
-    return lines
+        found.append((date, f"- **[{name}]({repo['html_url']})** — {clean(commit['commit']['message'])} <sub>{date}</sub>"))
+    return [line for _, line in sorted(found, reverse=True)]
 
 
 def main() -> None:
