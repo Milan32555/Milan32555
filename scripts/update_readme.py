@@ -13,6 +13,13 @@ SKIP = {USER}  # the profile repo itself
 LIMIT = 5
 README = Path(__file__).resolve().parent.parent / "README.md"
 START, END = "<!-- recent starts -->", "<!-- recent ends -->"
+# Housekeeping commits say little about the work itself; prefer the latest real change.
+NOISE = re.compile(r"^(docs|chore|style|ci|build|test)(\(.*?\))?!?:", re.I)
+# Shorter labels for repos with very long names.
+DISPLAY = {
+    "Full-stack-library-management-system-with-Vue.js-frontend-and-Node.js-backend": "library-system",
+    "AnimalVision-AI-Image-Classification-System": "AnimalVision",
+}
 
 
 def get(url: str):
@@ -26,7 +33,7 @@ def get(url: str):
 
 def clean(message: str) -> str:
     first = message.splitlines()[0].strip()
-    return first.replace("<", "&lt;").replace(">", "&gt;").replace("|", "\|")
+    return first.replace("<", "&lt;").replace(">", "&gt;").replace("|", r"\|")
 
 
 def entries() -> list[str]:
@@ -34,9 +41,11 @@ def entries() -> list[str]:
     repos = [r for r in repos if not r["fork"] and not r["archived"] and r["name"] not in SKIP][:LIMIT]
     lines = []
     for repo in repos:
-        commit = get(f"https://api.github.com/repos/{USER}/{repo['name']}/commits?per_page=1")[0]
+        commits = get(f"https://api.github.com/repos/{USER}/{repo['name']}/commits?per_page=30")
+        commit = next((c for c in commits if not NOISE.match(c["commit"]["message"])), commits[0])
         date = commit["commit"]["committer"]["date"][:10]
-        lines.append(f"- **[{repo['name']}]({repo['html_url']})** — {clean(commit['commit']['message'])} <sub>{date}</sub>")
+        name = DISPLAY.get(repo["name"], repo["name"])
+        lines.append(f"- **[{name}]({repo['html_url']})** — {clean(commit['commit']['message'])} <sub>{date}</sub>")
     return lines
 
 
