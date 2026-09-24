@@ -7,7 +7,7 @@ Developer and source-code security reviewer. I build web, mobile and AI applicat
 ## Selected work
 
 - **[MEDI-IA](https://github.com/Milan32555/medi-ia-medical-agent)** — Differential-diagnosis agent over 14 medical textbooks. Hybrid retrieval (BM25 + FAISS, fused with RRF), cross-encoder reranking and a ReAct agent on Qwen2.5-7B. Flask, Docker, 185 tests.
-- **[Real-time chat](https://github.com/Milan32555/Chat-socket-mongodb)** — WebSocket chat with live presence and persistent history. Socket.IO, Express 5, MongoDB. User input is escaped server-side against XSS.
+- **[Real-time chat](https://github.com/Milan32555/Chat-socket-mongodb)** — WebSocket chat with live presence and persistent history. Socket.IO, Express 5, MongoDB. User input is escaped before rendering to prevent XSS.
 - **[AnimalVision](https://github.com/Milan32555/AnimalVision-AI-Image-Classification-System)** — Image classifier served as a full-stack web app, using transfer learning on MobileNetV2. [Live demo](https://animal-cnn-classifier.onrender.com).
 - **[Safe Transfer AI](https://github.com/Milan32555/safe-transfer-ai)** — Fraud-risk simulator for bank transfers. Android app in Kotlin and Jetpack Compose with a weighted rules engine and unit tests.
 - **[Library management system](https://github.com/Milan32555/Full-stack-library-management-system-with-Vue.js-frontend-and-Node.js-backend)** — Catalog and admin panel built with Clean Architecture. Vue.js and Node.js. [Live demo](https://full-stack-library-management-syste-eight.vercel.app).
