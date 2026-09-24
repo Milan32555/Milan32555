@@ -39,12 +39,12 @@
 ## 🛠️ Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,nextjs,react,vue,threejs,nodejs,express,socketio,mongodb,mysql&perline=10" alt="TypeScript, Next.js, React, Vue, Three.js, Node.js, Express, Socket.IO, MongoDB, MySQL" />
+  <img src="https://skillicons.dev/icons?i=ts,nextjs,react,vue,threejs,nodejs,express,mongodb,mysql&perline=11" alt="TypeScript, Next.js, React, Vue, Three.js, Node.js, Express, MongoDB, MySQL" />
   <br/>
   <img src="https://skillicons.dev/icons?i=python,flask,kotlin,androidstudio,flutter,java,docker,linux,aws,gcp,git&perline=11" alt="Python, Flask, Kotlin, Android Studio, Flutter, Java, Docker, Linux, AWS, Google Cloud, Git" />
 </p>
 
-**Also:** RAG & AI agents (FAISS, BM25, rerankers) · Pinia · Vuetify · Jetpack Compose · OWASP Top 10 · Red Hat · Cisco networking
+**Also:** WebSockets (Socket.IO) · RAG & AI agents (FAISS, BM25, rerankers) · Pinia · Vuetify · Jetpack Compose · OWASP Top 10 · Red Hat · Cisco networking
 
 ## 📈 Activity
 
