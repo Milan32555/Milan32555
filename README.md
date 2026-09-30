@@ -33,9 +33,9 @@
 ## Recently shipped
 
 <!-- recent starts -->
+- **[ClienteLibroFisico](https://github.com/Milan32555/ClienteLibroFisico)** — Proyecto inicial: cliente Windows Forms para libros físicos <sub>2026-09-30</sub>
 - **[portfolio-milan](https://github.com/Milan32555/portfolio-milan)** — fix: fuente real en el hero y servicios sin stack fijo (#16) <sub>2026-09-24</sub>
 - **[library-system](https://github.com/Milan32555/Full-stack-library-management-system-with-Vue.js-frontend-and-Node.js-backend)** — fix: usar /api como URL base por defecto en el frontend <sub>2026-09-21</sub>
-- **[safe-transfer-ai](https://github.com/Milan32555/safe-transfer-ai)** — fix: reemplazar Divider (deprecado) por HorizontalDivider <sub>2026-09-18</sub>
 - **[VUE-KardexAPP](https://github.com/Milan32555/VUE-KardexAPP)** — refactor: eliminar seed muerto en movementsStore <sub>2026-09-18</sub>
 - **[medi-ia-medical-agent](https://github.com/Milan32555/medi-ia-medical-agent)** — fix: condicion_principal vacia cuando LLM no la incluye, ampliar alcance del agente a fisiopatologia <sub>2026-05-25</sub>
 <!-- recent ends -->
