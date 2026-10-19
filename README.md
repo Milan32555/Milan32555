@@ -33,7 +33,7 @@
 ## Recently shipped
 
 <!-- recent starts -->
-- **[SegundoProyecto-Libreria](https://github.com/Milan32555/SegundoProyecto-Libreria)** — Cliente web: misma estética que la app móvil <sub>2026-10-17</sub>
+- **[SegundoProyecto-Libreria](https://github.com/Milan32555/SegundoProyecto-Libreria)** — Servidor y clientes: regla de préstamos, registro de operaciones y fecha con hora en la app <sub>2026-10-18</sub>
 - **[proyecto-libro-fisico](https://github.com/Milan32555/proyecto-libro-fisico)** — Actualizar README con instrucciones paso a paso <sub>2026-10-01</sub>
 - **[ClienteLibroFisico](https://github.com/Milan32555/ClienteLibroFisico)** — Proyecto inicial: cliente Windows Forms para libros físicos <sub>2026-09-30</sub>
 - **[portfolio-milan](https://github.com/Milan32555/portfolio-milan)** — fix: fuente real en el hero y servicios sin stack fijo (#16) <sub>2026-09-24</sub>
