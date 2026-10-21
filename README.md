@@ -33,7 +33,7 @@
 ## Recently shipped
 
 <!-- recent starts -->
-- **[SegundoProyecto-Libreria](https://github.com/Milan32555/SegundoProyecto-Libreria)** — Recorrido en el celular: capturas con adb y texto escrito por el controlador <sub>2026-10-20</sub>
+- **[SegundoProyecto-Libreria](https://github.com/Milan32555/SegundoProyecto-Libreria)** — Libro: un solo LibroInput para crear y actualizar <sub>2026-10-21</sub>
 - **[proyecto-libro-fisico](https://github.com/Milan32555/proyecto-libro-fisico)** — Actualizar README con instrucciones paso a paso <sub>2026-10-01</sub>
 - **[ClienteLibroFisico](https://github.com/Milan32555/ClienteLibroFisico)** — Proyecto inicial: cliente Windows Forms para libros físicos <sub>2026-09-30</sub>
 - **[portfolio-milan](https://github.com/Milan32555/portfolio-milan)** — fix: fuente real en el hero y servicios sin stack fijo (#16) <sub>2026-09-24</sub>
