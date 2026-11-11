@@ -33,11 +33,11 @@
 ## Recently shipped
 
 <!-- recent starts -->
+- **[tercer-prototipo-libreria](https://github.com/Milan32555/tercer-prototipo-libreria)** — Prueba de Flutter: fecha de hoy a las 00:00 para que no dependa de la hora en que corre <sub>2026-11-11</sub>
 - **[SegundoProyecto-Libreria](https://github.com/Milan32555/SegundoProyecto-Libreria)** — main.tsx <sub>2026-10-22</sub>
 - **[proyecto-libro-fisico](https://github.com/Milan32555/proyecto-libro-fisico)** — Actualizar README con instrucciones paso a paso <sub>2026-10-01</sub>
 - **[ClienteLibroFisico](https://github.com/Milan32555/ClienteLibroFisico)** — Proyecto inicial: cliente Windows Forms para libros físicos <sub>2026-09-30</sub>
 - **[portfolio-milan](https://github.com/Milan32555/portfolio-milan)** — fix: fuente real en el hero y servicios sin stack fijo (#16) <sub>2026-09-24</sub>
-- **[medi-ia-medical-agent](https://github.com/Milan32555/medi-ia-medical-agent)** — fix: condicion_principal vacia cuando LLM no la incluye, ampliar alcance del agente a fisiopatologia <sub>2026-05-25</sub>
 <!-- recent ends -->
 
 <sub>Updated daily by a [GitHub Action](./.github/workflows/update-readme.yml) running [a small Python script](./scripts/update_readme.py).</sub>
