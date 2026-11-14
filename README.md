@@ -37,7 +37,7 @@
 - **[SegundoProyecto-Libreria](https://github.com/Milan32555/SegundoProyecto-Libreria)** — main.tsx <sub>2026-10-22</sub>
 - **[proyecto-libro-fisico](https://github.com/Milan32555/proyecto-libro-fisico)** — Actualizar README con instrucciones paso a paso <sub>2026-10-01</sub>
 - **[ClienteLibroFisico](https://github.com/Milan32555/ClienteLibroFisico)** — Proyecto inicial: cliente Windows Forms para libros físicos <sub>2026-09-30</sub>
-- **[portfolio-milan](https://github.com/Milan32555/portfolio-milan)** — fix: fuente real en el hero y servicios sin stack fijo (#16) <sub>2026-09-24</sub>
+- **[Chat-socket-mongodb](https://github.com/Milan32555/Chat-socket-mongodb)** — Se agrego el README <sub>2026-04-14</sub>
 <!-- recent ends -->
 
 <sub>Updated daily by a [GitHub Action](./.github/workflows/update-readme.yml) running [a small Python script](./scripts/update_readme.py).</sub>
